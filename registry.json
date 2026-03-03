@@ -70,5 +70,14 @@
     "github_repo": "Violetwolf003-beep/Mobian-Setting",
     "repo_url": "https://Violetwolf003-beep.github.io/Mobian-Setting/",
     "has_system": false
+  },
+  {
+    "name": "Xenoblade-1-and-2-inspired-pack",
+    "description": "classes, weapons, and items inspired by Xenoblade Chronicles 1, and 2",
+    "tags": [],
+    "stars": 0,
+    "github_repo": "Violetwolf003-beep/Xenoblade-1-and-2-inspired-pack",
+    "repo_url": "https://Violetwolf003-beep.github.io/Xenoblade-1-and-2-inspired-pack/",
+    "has_system": false
   }
 ]
