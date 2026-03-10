@@ -79,5 +79,16 @@
     "github_repo": "Violetwolf003-beep/Xenoblade-1-and-2-inspired-pack",
     "repo_url": "https://Violetwolf003-beep.github.io/Xenoblade-1-and-2-inspired-pack/",
     "has_system": false
+  },
+  {
+    "name": "Cardslinger-Class",
+    "description": "A class and two items inspired by Gambet from X-man.",
+    "tags": [
+      "5e"
+    ],
+    "stars": 0,
+    "github_repo": "Violetwolf003-beep/Cardslinger-Class",
+    "repo_url": "https://Violetwolf003-beep.github.io/Cardslinger-Class/",
+    "has_system": false
   }
 ]
