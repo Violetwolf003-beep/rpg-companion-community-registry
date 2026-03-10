@@ -102,5 +102,52 @@
     "github_repo": "Violetwolf003-beep/Chainsaw-Man-Ideas",
     "repo_url": "https://Violetwolf003-beep.github.io/Chainsaw-Man-Ideas/",
     "has_system": false
+  },
+  {
+    "name": "hero-s-agents-goblins",
+    "description": "you are tasked to protect an ancient civilization from goblins",
+    "tags": [
+      "fantasy",
+      "heroes-of-faerun"
+    ],
+    "stars": 0,
+    "github_repo": "jesseseward75-cmyk/hero-s-agents-goblins",
+    "repo_url": "https://jesseseward75-cmyk.github.io/hero-s-agents-goblins/",
+    "has_system": false
+  },
+  {
+    "name": "The-Pugilist-Pack",
+    "description": "Brings everything from The Pugilist Class made by Sterling Vermin Co.",
+    "tags": [
+      "5e2024"
+    ],
+    "stars": 0,
+    "github_repo": "Junk-Pyle/The-Pugilist-Pack",
+    "repo_url": "https://Junk-Pyle.github.io/The-Pugilist-Pack/",
+    "has_system": false
+  },
+  {
+    "name": "The-Bloodborne-Hunter",
+    "description": "This class is home brewed based on the good hunter (the character you play) from bloodborne. this is my first class I have made and don’t know if it’s balanced and it would help for some feedback.",
+    "tags": [
+      "5e",
+      "fantasy",
+      "bloodborne"
+    ],
+    "stars": 0,
+    "github_repo": "SLRPY-PNDZZ/The-Bloodborne-Hunter",
+    "repo_url": "https://SLRPY-PNDZZ.github.io/The-Bloodborne-Hunter/",
+    "has_system": false
+  },
+  {
+    "name": "Twilight-cleric",
+    "description": "5e twilight cleric reworked for 2024",
+    "tags": [
+      "5e2024"
+    ],
+    "stars": 0,
+    "github_repo": "odytsek/Twilight-cleric",
+    "repo_url": "https://odytsek.github.io/Twilight-cleric/",
+    "has_system": false
   }
 ]
