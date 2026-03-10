@@ -90,5 +90,17 @@
     "github_repo": "Violetwolf003-beep/Cardslinger-Class",
     "repo_url": "https://Violetwolf003-beep.github.io/Cardslinger-Class/",
     "has_system": false
+  },
+  {
+    "name": "Chainsaw-Man-Ideas",
+    "description": "A class, background and feats inspired by Chainsaw-Man.",
+    "tags": [
+      "5e",
+      "chainsaw-man"
+    ],
+    "stars": 0,
+    "github_repo": "Violetwolf003-beep/Chainsaw-Man-Ideas",
+    "repo_url": "https://Violetwolf003-beep.github.io/Chainsaw-Man-Ideas/",
+    "has_system": false
   }
 ]
